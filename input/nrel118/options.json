@@ -1,0 +1,76 @@
+{
+  "title": "NTC-1000",
+  "type": "ntc",
+  "model_horizon": [
+    0,
+    168
+  ],
+  "heat_model": false,
+  "constrain_nex": false,
+  "timeseries": {
+    "split": true,
+    "market_horizon": 10000,
+    "redispatch_horizon": 10000
+  },
+  "redispatch": {
+    "include": false,
+    "zonal_redispatch": false,
+    "zones": [
+      "R1",
+      "R2",
+      "R3"
+    ],
+    "cost": 15
+  },
+  "curtailment": {
+    "include": true,
+    "cost": 5
+  },
+  "chance_constrained": {
+    "include": false,
+    "fixed_alpha": true,
+    "cc_res_mw": 50,
+    "alpha_plants_mw": 200
+  },
+  "parameters": {
+    "storage_start": 0.65
+  },
+  "infeasibility": {
+    "heat": {
+      "include": false,
+      "cost": 1000.0,
+      "bound": 20
+    },
+    "electricity": {
+      "include": true,
+      "cost": 1000,
+      "bound": 10000
+    }
+  },
+  "plant_types": {
+    "es": [
+      "storage"
+    ],
+    "hs": [],
+    "ts": [
+      "wind",
+      "solar",
+      "ror_ts"
+    ],
+    "ph": []
+  },
+  "grid": {
+    "cbco_option": "clarkson_base",
+    "precalc_filename": "",
+    "sensitivity": 0.05,
+    "capacity_multiplier": 1,
+    "preprocess": true,
+    "gsk": "gmax",
+    "minram": 0.2,
+    "flowbased_region": []
+  },
+  "data": {
+    "result_copy": false,
+    "default_net_position": 0
+  }
+}

@@ -1,0 +1,329 @@
+index,node,mc_el,mc_heat,g_max,h_max,eta,plant_type,heatarea,storage_capacity
+Biomass 01,bus012,29.088000000000005,0,3.0,0,1,conventional,,0
+Biomass 02,bus012,29.088000000000005,0,3.0,0,1,conventional,,0
+Biomass 03,bus103,29.088000000000005,0,1.2,0,1,conventional,,0
+Biomass 04,bus103,29.088000000000005,0,1.2,0,1,conventional,,0
+Biomass 05,bus012,29.088000000000005,0,1.3,0,1,conventional,,0
+Biomass 06,bus012,29.088000000000005,0,1.3,0,1,conventional,,0
+Biomass 07,bus012,29.088000000000005,0,3.0,0,1,conventional,,0
+Biomass 08,bus012,29.088000000000005,0,1.35,0,1,conventional,,0
+Biomass 09,bus012,29.088000000000005,0,1.35,0,1,conventional,,0
+Biomass 10,bus012,29.088000000000005,0,1.35,0,1,conventional,,0
+Biomass 11,bus012,29.088000000000005,0,0.71,0,1,conventional,,0
+Biomass 12,bus012,29.088000000000005,0,0.71,0,1,conventional,,0
+Biomass 13,bus012,29.088000000000005,0,0.71,0,1,conventional,,0
+Biomass 14,bus012,29.088000000000005,0,1.57,0,1,conventional,,0
+Biomass 15,bus012,29.088000000000005,0,0.65,0,1,conventional,,0
+Biomass 16,bus012,29.088000000000005,0,0.65,0,1,conventional,,0
+Biomass 17,bus012,29.088000000000005,0,0.65,0,1,conventional,,0
+Biomass 18,bus012,29.088000000000005,0,0.65,0,1,conventional,,0
+Biomass 19,bus012,29.088000000000005,0,0.45,0,1,conventional,,0
+Biomass 20,bus012,29.088000000000005,0,0.45,0,1,conventional,,0
+Biomass 21,bus012,29.088000000000005,0,0.45,0,1,conventional,,0
+Biomass 22,bus012,29.088000000000005,0,0.45,0,1,conventional,,0
+Biomass 23,bus012,29.088000000000005,0,1.0,0,1,conventional,,0
+Biomass 24,bus012,29.088000000000005,0,1.0,0,1,conventional,,0
+Biomass 25,bus012,29.088000000000005,0,1.0,0,1,conventional,,0
+Biomass 26,bus012,28.366152000000003,0,1.9,0,1,conventional,,0
+Biomass 27,bus012,28.366152000000003,0,1.9,0,1,conventional,,0
+Biomass 28,bus012,28.366152000000003,0,1.9,0,1,conventional,,0
+Biomass 29,bus012,28.366152000000003,0,1.9,0,1,conventional,,0
+Biomass 30,bus012,28.366152000000003,0,1.9,0,1,conventional,,0
+Biomass 31,bus012,28.366152000000003,0,1.9,0,1,conventional,,0
+Biomass 32,bus012,29.088000000000005,0,1.9,0,1,conventional,,0
+Biomass 33,bus103,28.45200000000001,0,1.6,0,1,conventional,,0
+Biomass 34,bus103,28.45200000000001,0,1.6,0,1,conventional,,0
+Biomass 35,bus103,28.45200000000001,0,1.6,0,1,conventional,,0
+Biomass 36,bus103,28.45200000000001,0,1.6,0,1,conventional,,0
+Biomass 37,bus103,29.088000000000005,0,0.95,0,1,conventional,,0
+Biomass 38,bus103,29.088000000000005,0,0.95,0,1,conventional,,0
+Biomass 39,bus103,29.088000000000005,0,0.95,0,1,conventional,,0
+Biomass 40,bus103,29.088000000000005,0,0.95,0,1,conventional,,0
+Biomass 41,bus103,29.088000000000005,0,1.88,0,1,conventional,,0
+Biomass 42,bus103,29.088000000000005,0,1.88,0,1,conventional,,0
+Biomass 43,bus103,24.934752000000003,0,3.75,0,1,conventional,,0
+Biomass 44,bus103,29.088000000000005,0,2.29,0,1,conventional,,0
+Biomass 45,bus103,29.088000000000005,0,2.29,0,1,conventional,,0
+Biomass 46,bus103,29.088000000000005,0,1.2,0,1,conventional,,0
+Biomass 47,bus103,33.23760000000001,0,3.0,0,1,conventional,,0
+Biomass 48,bus103,33.23760000000001,0,3.0,0,1,conventional,,0
+Biomass 49,bus103,29.088000000000005,0,1.6,0,1,conventional,,0
+Biomass 50,bus103,29.088000000000005,0,0.9,0,1,conventional,,0
+Biomass 51,bus103,29.088000000000005,0,0.9,0,1,conventional,,0
+Biomass 52,bus103,29.088000000000005,0,3.0,0,1,conventional,,0
+Biomass 53,bus034,29.088000000000005,0,3.0,0,1,conventional,,0
+Biomass 54,bus034,29.088000000000005,0,3.0,0,1,conventional,,0
+Biomass 55,bus034,29.088000000000005,0,3.0,0,1,conventional,,0
+Biomass 56,bus012,29.088000000000005,0,4.6,0,1,conventional,,0
+Biomass 57,bus012,29.088000000000005,0,3.0,0,1,conventional,,0
+Biomass 58,bus012,29.088000000000005,0,3.0,0,1,conventional,,0
+Biomass 59,bus012,29.088000000000005,0,4.6,0,1,conventional,,0
+Biomass 60,bus012,29.088000000000005,0,3.0,0,1,conventional,,0
+Biomass 61,bus103,29.088000000000005,0,1.88,0,1,conventional,,0
+Biomass 62,bus034,32.40000000000001,0,7.5,0,1,conventional,,0
+CC NG 01,bus012,35.040600000000005,0,41.5,0,1,conventional,,0
+CC NG 03,bus012,27.801630000000003,0,126.98,0,1,conventional,,0
+CC NG 04,bus012,34.886268,0,320.0,0,1,conventional,,0
+CC NG 05,bus074,28.997298000000008,0,100.0,0,1,conventional,,0
+CC NG 06,bus012,51.982830000000014,0,13.5,0,1,conventional,,0
+CC NG 07,bus103,35.040600000000005,0,55.1,0,1,conventional,,0
+CC NG 08,bus112,38.70423000000001,0,14.3,0,1,conventional,,0
+CC NG 09,bus107,38.70423000000001,0,33.0,0,1,conventional,,0
+CC NG 10,bus036,46.87619310000001,0,71.51,0,1,conventional,,0
+CC NG 11,bus066,30.31678800000001,0,596.4,0,1,conventional,,0
+CC NG 12,bus046,47.911392000000006,0,150.0,0,1,conventional,,0
+CC NG 13,bus012,35.040600000000005,0,57.3,0,1,conventional,,0
+CC NG 14,bus049,39.522654,0,164.75,0,1,conventional,,0
+CC NG 15,bus034,56.22372,0,27.0,0,1,conventional,,0
+CC NG 16,bus012,29.043630000000007,0,943.5,0,1,conventional,,0
+CC NG 17,bus025,32.71352400000001,0,154.4,0,1,conventional,,0
+CC NG 18,bus113,29.339928000000004,0,619.0,0,1,conventional,,0
+CC NG 19,bus012,26.912412000000007,0,140.0,0,1,conventional,,0
+CC NG 20,bus025,35.040600000000005,0,25.8,0,1,conventional,,0
+CC NG 21,bus026,43.59214800000001,0,315.0,0,1,conventional,,0
+CC NG 22,bus026,25.883496000000004,0,677.8,0,1,conventional,,0
+CC NG 23,bus010,29.39004000000001,0,636.0,0,1,conventional,,0
+CC NG 24,bus025,34.185942000000004,0,672.3,0,1,conventional,,0
+CC NG 25,bus010,35.040600000000005,0,32.49,0,1,conventional,,0
+CC NG 26,bus010,38.88000000000001,0,655.0,0,1,conventional,,0
+CC NG 27,bus004,35.040600000000005,0,34.5,0,1,conventional,,0
+CC NG 28,bus100,37.78779600000001,0,181.5,0,1,conventional,,0
+CC NG 29,bus107,35.040600000000005,0,49.9,0,1,conventional,,0
+CC NG 31,bus089,30.274722000000008,0,336.5,0,1,conventional,,0
+CC NG 32,bus090,35.040600000000005,0,38.55,0,1,conventional,,0
+CC NG 33,bus090,51.982830000000014,0,24.88,0,1,conventional,,0
+CC NG 34,bus087,28.613844,0,688.3,0,1,conventional,,0
+CC NG 35,bus089,29.20163400000001,0,595.0,0,1,conventional,,0
+CC NG 36,bus087,29.223558000000008,0,668.0,0,1,conventional,,0
+CC NG 37,bus065,28.061262000000006,0,636.0,0,1,conventional,,0
+CC NG 38,bus049,29.951046000000005,0,98.2,0,1,conventional,,0
+CC NG 39,bus018,35.040600000000005,0,247.0,0,1,conventional,,0
+CC NG 40,bus107,30.4539156,0,751.1,0,1,conventional,,0
+CT NG 01,bus006,48.48384600000001,0,25.4,0,1,conventional,,0
+CT NG 02,bus018,48.43222200000001,0,25.4,0,1,conventional,,0
+CT NG 03,bus004,48.48384600000001,0,24.75,0,1,conventional,,0
+CT NG 04,bus004,48.48384600000001,0,24.75,0,1,conventional,,0
+CT NG 05,bus004,54.965952000000016,0,49.9,0,1,conventional,,0
+CT NG 06,bus006,54.965952000000016,0,49.9,0,1,conventional,,0
+CT NG 07,bus006,54.965952000000016,0,49.9,0,1,conventional,,0
+CT NG 08,bus008,53.857332000000014,0,50.0,0,1,conventional,,0
+CT NG 09,bus008,47.370204000000015,0,50.0,0,1,conventional,,0
+CT NG 10,bus008,47.370204000000015,0,50.0,0,1,conventional,,0
+CT NG 11,bus010,47.370204000000015,0,50.0,0,1,conventional,,0
+CT NG 12,bus010,47.370204000000015,0,50.0,0,1,conventional,,0
+CT NG 13,bus006,53.857332000000014,0,21.6,0,1,conventional,,0
+CT NG 14,bus006,53.857332000000014,0,21.6,0,1,conventional,,0
+CT NG 15,bus025,53.857332000000014,0,21.6,0,1,conventional,,0
+CT NG 16,bus025,48.48384600000001,0,49.9,0,1,conventional,,0
+CT NG 17,bus004,41.319666000000005,0,6.9,0,1,conventional,,0
+CT NG 18,bus004,41.319666000000005,0,3.9,0,1,conventional,,0
+CT NG 19,bus018,41.319666000000005,0,3.9,0,1,conventional,,0
+CT NG 20,bus025,41.319666000000005,0,6.9,0,1,conventional,,0
+CT NG 21,bus085,30.289518000000005,0,100.0,0,1,conventional,,0
+CT NG 22,bus091,30.289518000000005,0,100.0,0,1,conventional,,0
+CT NG 23,bus091,30.289518000000005,0,100.0,0,1,conventional,,0
+CT NG 24,bus100,30.289518000000005,0,100.0,0,1,conventional,,0
+CT NG 25,bus100,30.289518000000005,0,100.0,0,1,conventional,,0
+CT NG 26,bus100,30.289518000000005,0,100.0,0,1,conventional,,0
+CT NG 27,bus107,41.319666000000005,0,1.05,0,1,conventional,,0
+CT NG 28,bus100,56.49804000000002,0,44.02,0,1,conventional,,0
+CT NG 29,bus107,41.319666000000005,0,0.6,0,1,conventional,,0
+CT NG 30,bus090,56.22372,0,18.0,0,1,conventional,,0
+CT NG 31,bus107,41.319666000000005,0,1.54,0,1,conventional,,0
+CT NG 32,bus107,41.319666000000005,0,1.6,0,1,conventional,,0
+CT NG 33,bus107,41.319666000000005,0,1.3,0,1,conventional,,0
+CT NG 34,bus100,30.110562,0,100.0,0,1,conventional,,0
+CT NG 35,bus100,30.110562,0,100.0,0,1,conventional,,0
+CT NG 36,bus100,30.110562,0,100.0,0,1,conventional,,0
+CT NG 37,bus107,41.319666000000005,0,1.3,0,1,conventional,,0
+CT NG 38,bus090,41.319666000000005,0,9.5,0,1,conventional,,0
+CT NG 39,bus112,41.319666000000005,0,1.3,0,1,conventional,,0
+CT NG 40,bus112,41.319666000000005,0,3.1,0,1,conventional,,0
+CT NG 41,bus040,41.03362800000001,0,54.0,0,1,conventional,,0
+CT NG 42,bus036,56.55501,0,82.4,0,1,conventional,,0
+CT NG 43,bus062,49.95129600000001,0,25.0,0,1,conventional,,0
+CT NG 44,bus055,48.48384600000001,0,60.35,0,1,conventional,,0
+CT NG 45,bus055,48.48384600000001,0,60.35,0,1,conventional,,0
+CT NG 46,bus026,30.043602000000003,0,180.0,0,1,conventional,,0
+CT NG 47,bus026,30.043602000000003,0,180.0,0,1,conventional,,0
+CT NG 48,bus026,30.043602000000003,0,180.0,0,1,conventional,,0
+CT NG 49,bus026,30.043602000000003,0,180.0,0,1,conventional,,0
+CT NG 50,bus111,48.27481200000001,0,49.96,0,1,conventional,,0
+CT NG 51,bus085,30.223800000000008,0,8.57,0,1,conventional,,0
+CT NG 52,bus085,30.223800000000008,0,10.71,0,1,conventional,,0
+CT NG 53,bus085,30.223800000000008,0,10.71,0,1,conventional,,0
+CT NG 54,bus111,50.023494000000014,0,49.9,0,1,conventional,,0
+CT NG 55,bus091,55.753434000000006,0,15.0,0,1,conventional,,0
+CT NG 56,bus111,48.094074000000006,0,46.9,0,1,conventional,,0
+CT NG 66,bus111,48.48384600000001,0,45.0,0,1,conventional,,0
+CT NG 67,bus111,48.48384600000001,0,45.0,0,1,conventional,,0
+CT NG 68,bus111,48.41812800000001,0,46.7,0,1,conventional,,0
+CT NG 69,bus111,41.43722400000001,0,49.5,0,1,conventional,,0
+CT NG 70,bus111,48.257532000000005,0,44.02,0,1,conventional,,0
+CT NG 71,bus111,48.257532000000005,0,44.02,0,1,conventional,,0
+CT NG 72,bus112,41.460714,0,50.0,0,1,conventional,,0
+CT NG 73,bus112,41.460714,0,50.0,0,1,conventional,,0
+CT NG 74,bus042,38.70390600000001,0,42.0,0,1,conventional,,0
+CT NG 75,bus049,56.62634400000001,0,50.4,0,1,conventional,,0
+CT Oil 01,bus026,209.44518,0,74.5,0,1,conventional,,0
+CT Oil 02,bus010,209.44518,0,74.5,0,1,conventional,,0
+CT Oil 03,bus010,209.44518,0,74.5,0,1,conventional,,0
+CT Oil 04,bus054,218.6478,0,71.2,0,1,conventional,,0
+CT Oil 05,bus054,218.6478,0,71.2,0,1,conventional,,0
+Geo 01,bus055,0.0,0,22.0,0,1,conventional,,0
+Hydro 01,bus056,0.0,0,75.0,0,1,ror,,0
+Hydro 02,bus056,0.0,0,75.0,0,1,ror,,0
+Hydro 03,bus066,0.0,0,77.0,0,1,ror,,0
+Hydro 04,bus076,0.0,0,77.0,0,1,ror,,0
+Hydro 05,bus049,0.0,0,82.0,0,1,ror,,0
+Hydro 06,bus059,0.0,0,500.0,0,1,ror,,0
+Hydro 07,bus059,0.0,0,500.0,0,1,ror,,0
+Hydro 08,bus061,0.0,0,500.0,0,1,ror,,0
+Hydro 09,bus061,0.0,0,500.0,0,1,ror,,0
+Hydro 10,bus062,0.0,0,500.0,0,1,ror,,0
+Hydro 11,bus076,0.0,0,500.0,0,1,ror,,0
+Hydro 12,bus077,0.0,0,500.0,0,1,ror,,0
+Hydro 13,bus059,0.0,0,46.7,0,1,ror,,0
+Hydro 14,bus099,0.0,0,110.0,0,1,ror,,0
+Hydro 15,bus080,0.0,0,140.0,0,1,ror,,0
+Hydro 16,bus032,0.0,0,0.8,0,1,ror_ts,,0
+Hydro 17,bus112,0.0,0,40.0,0,1,ror_ts,,0
+Hydro 18,bus112,0.0,0,40.0,0,1,ror_ts,,0
+Hydro 19,bus116,0.0,0,648.44,0,1,ror_ts,,0
+Hydro 20,bus077,0.0,0,765.77,0,1,ror_ts,,0
+Hydro 21,bus099,0.0,0,765.77,0,1,ror_ts,,0
+Hydro 22,bus099,0.0,0,765.77,0,1,ror_ts,,0
+Hydro 23,bus069,0.0,0,742.63,0,1,ror_ts,,0
+Hydro 24,bus069,0.0,0,742.63,0,1,ror_ts,,0
+Hydro 25,bus061,0.0,0,286.46,0,1,ror_ts,,0
+Hydro 26,bus116,0.0,0,286.46,0,1,ror_ts,,0
+Hydro 27,bus080,0.0,0,286.46,0,1,ror_ts,,0
+Hydro 28,bus080,0.0,0,1000.0,0,1,ror_ts,,0
+Hydro 29,bus080,0.0,0,1000.0,0,1,ror_ts,,0
+Hydro 30,bus034,0.0,0,0.1,0,1,ror_ts,,0
+Hydro 31,bus034,0.0,0,0.4,0,1,ror_ts,,0
+Hydro 32,bus034,0.0,0,0.48,0,1,ror_ts,,0
+Hydro 33,bus069,0.0,0,1000.0,0,1,ror_ts,,0
+Hydro 34,bus069,0.0,0,1000.0,0,1,ror_ts,,0
+Hydro 35,bus034,0.0,0,0.24,0,1,ror_ts,,0
+Hydro 36,bus034,0.0,0,10.76,0,1,ror,,0
+Hydro 37,bus036,0.0,0,47.1,0,1,ror,,0
+Hydro 38,bus034,0.0,0,2.46,0,1,ror,,0
+Hydro 39,bus034,0.0,0,2.46,0,1,ror,,0
+Hydro 40,bus065,0.0,0,96.93,0,1,ror_ts,,0
+Hydro 41,bus046,0.0,0,96.26,0,1,ror_ts,,0
+Hydro 42,bus042,0.0,0,96.26,0,1,ror_ts,,0
+Hydro 43,bus099,0.0,0,111.93,0,1,ror_ts,,0
+ICE NG 01,bus112,42.52024800000001,0,3.25,0,1,conventional,,0
+ICE NG 02,bus056,42.78376800000001,0,8.4,0,1,conventional,,0
+ICE NG 03,bus065,42.78376800000001,0,8.4,0,1,conventional,,0
+ICE NG 04,bus065,42.78376800000001,0,8.4,0,1,conventional,,0
+ICE NG 05,bus077,42.78376800000001,0,8.4,0,1,conventional,,0
+ICE NG 06,bus077,42.78376800000001,0,8.4,0,1,conventional,,0
+ICE NG 07,bus034,42.78376800000001,0,8.4,0,1,conventional,,0
+Solar 01,bus032,4.0,0,746.76,0,1,solar,,0
+Solar 02,bus092,1.97793133001232,0,369.26,0,1,solar,,0
+Solar 03,bus054,3.856660774546039,0,720.0,0,1,solar,,0
+Solar 04,bus032,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 05,bus018,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 06,bus018,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 07,bus018,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 08,bus018,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 09,bus018,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 10,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 11,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 12,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 13,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 14,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 15,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 16,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 17,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 18,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 19,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 20,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 21,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 22,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 23,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 24,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 25,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 26,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 27,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 28,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 29,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 30,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 31,bus104,0.6215115967646901,0,116.03,0,1,solar,,0
+Solar 32,bus104,0.9318656596496868,0,173.97,0,1,solar,,0
+Solar 33,bus104,0.7070544753334405,0,132.0,0,1,solar,,0
+Solar 34,bus110,0.6695591622475762,0,125.0,0,1,solar,,0
+Solar 35,bus104,0.2410412984091274,0,45.0,0,1,solar,,0
+Solar 36,bus110,0.6904494081097006,0,128.9,0,1,solar,,0
+Solar 37,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 38,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 39,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 40,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 41,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 42,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 43,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 44,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 45,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 46,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 47,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 48,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 49,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 50,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 51,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 52,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 53,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 54,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 55,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 56,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 57,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 58,bus112,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 59,bus105,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 60,bus105,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 61,bus105,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 62,bus069,3.856660774546039,0,720.0,0,1,solar,,0
+Solar 63,bus019,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 64,bus015,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 65,bus019,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 66,bus018,0.6615244523006053,0,123.5,0,1,solar,,0
+Solar 67,bus018,0.4285178638384487,0,80.0,0,1,solar,,0
+Solar 68,bus105,0.5142214366061385,0,96.0,0,1,solar,,0
+Solar 69,bus105,0.6588462156516149,0,123.0,0,1,solar,,0
+Solar 70,bus092,0.8034709946970915,0,150.0,0,1,solar,,0
+Solar 71,bus100,0.5623761315549842,0,104.99,0,1,solar,,0
+Solar 72,bus105,0.1606941989394182,0,30.0,0,1,solar,,0
+Solar 73,bus069,3.856660774546039,0,720.0,0,1,solar,,0
+Solar 74,bus076,3.856660774546039,0,720.0,0,1,solar,,0
+Solar 75,bus055,3.856660774546039,0,720.0,0,1,solar,,0
+ST Coal 01,bus018,18.308574000000004,0,20.0,0,1,conventional,,0
+ST NG 01,bus070,48.67543800000001,0,320.0,0,1,conventional,,0
+ST NG 02,bus072,47.53609200000001,0,325.0,0,1,conventional,,0
+ST NG 03,bus025,46.432224000000005,0,712.0,0,1,conventional,,0
+ST NG 04,bus019,23.12334000000001,0,62.6,0,1,conventional,,0
+ST NG 05,bus024,23.12334000000001,0,62.6,0,1,conventional,,0
+ST NG 06,bus092,52.95472200000002,0,110.25,0,1,conventional,,0
+ST NG 07,bus092,53.63625600000001,0,110.25,0,1,conventional,,0
+ST NG 08,bus092,51.846210000000006,0,306.0,0,1,conventional,,0
+ST NG 09,bus092,49.66601400000001,0,345.6,0,1,conventional,,0
+ST NG 10,bus105,50.58595800000002,0,106.25,0,1,conventional,,0
+ST Other 01,bus024,248.20383,0,4.6,0,1,conventional,,0
+ST Other 02,bus024,117.53700000000002,0,30.4,0,1,conventional,,0
+Wind 01,bus024,4.875,0,650.0,0,1,wind,,0
+Wind 02,bus024,4.875,0,650.0,0,1,wind,,0
+Wind 03,bus024,4.875,0,650.0,0,1,wind,,0
+Wind 04,bus024,4.875,0,650.0,0,1,wind,,0
+Wind 05,bus024,4.875,0,650.0,0,1,wind,,0
+Wind 06,bus027,4.35,0,580.0,0,1,wind,,0
+Wind 07,bus027,4.35,0,580.0,0,1,wind,,0
+Wind 08,bus027,4.35,0,580.0,0,1,wind,,0
+Wind 09,bus027,4.35,0,580.0,0,1,wind,,0
+Wind 10,bus027,4.35,0,580.0,0,1,wind,,0
+Wind 11,bus027,4.35,0,580.0,0,1,wind,,0
+Wind 12,bus031,6.0,0,800.0,0,1,wind,,0
+Wind 13,bus031,6.0,0,800.0,0,1,wind,,0
+Wind 14,bus100,3.75,0,500.0,0,1,wind,,0
+Wind 15,bus082,3.15,0,420.0,0,1,wind,,0
+Wind 16,bus082,3.15,0,420.0,0,1,wind,,0
+Wind 17,bus082,3.15,0,420.0,0,1,wind,,0
+Storage 1,bus030,10.0,0,800.0,0,1,storage,,6400
